@@ -5,6 +5,7 @@
 
 ## [Website Demo]()
 
+![image](https://github.com/Mahrous-Gamal/SSzone-Technologies-Task2-Travel-Website/assets/105131896/70cc9de0-855c-4b9e-9769-ef4039201e2c)
 
 ### Prerequisites
 
