@@ -1,4 +1,4 @@
-# Travel Website
+# SSzone Technologies Task2 Travel Website
 - Responsive Website Using HTML, CSS, Bootstrap, and JavaScript.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Travel Website** locally, run this command on your git bash:
+To run **SSzone Technologies Task2 Travel Website** locally, run this command on your git bash:
 
 Linux and macOS:
 
